@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<!DOCTYPE document
+        [
+                <!ENTITY root-path   '..'> <!-- The path to the incubator root -->
+                ]>
+
+<document>
+    <properties>
+        <atom url="http://mail-archives.apache.org/mod_mbox/incubator-general/?format=atom">general@incubator.apache.org
+            Archives
+        </atom>
+        <title>Apache Incubator: Incubator PMC</title>
+    </properties>
+    <body>
+        <section id='intro'>
+            <title>The Incubator PMC</title>
+            <toc/>
+        </section>
+        <section id="joining">
+            <title>Joining the IPMC</title>
+            <p>
+                Joining the IPMC is just like any other PMC, once enough merit and community involvement is performed,
+                PMC members will take notice and may vote on you to join.
+            </p>
+            <p>
+                Foundation members may willingly join the IPMC at any time, to express desire send an email to
+                <code>private.AT.incubator.apache.org</code>
+            </p>
+        </section>
+        <section id="members">
+            <title>Members</title>
+            <p>
+                A full list of IPMC members can be found at <a href="http://home.apache.org/phonebook.html?pmc=incubator">home.apache.org/phonebook.html?pmc=incubator</a>
+            </p>
+        </section>
+        <section id="ipmc-roles">
+            <title>Roles and Responsibilities of the IPMC</title>
+            <p>
+                The full list of expectations of an IPMC member can be found on the
+                <a href="&root-path;/incubation/Roles_and_Responsibilities.html#Incubator+Project+Management+Committee+%28PMC%29">
+                    Roles &amp; Responsibilities Page</a>
+            </p>
+        </section>
+    </body>
+</document>
